@@ -65,14 +65,4 @@ http://localhost:3000
 - [ ] Integrate global state management
 - [ ] Optimize performance for larger datasets
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit issues and enhancement requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Made with ❤️ by [i-nap](https://github.com/i-nap)
