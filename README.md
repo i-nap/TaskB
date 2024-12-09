@@ -6,6 +6,11 @@ A simple task management app that allows users to create, organize, and manage t
 
 TaskB is a lightweight task management solution built with modern web technologies. It provides an intuitive drag-and-drop interface for organizing tasks across different stages of completion.
 
+## 🌐 **Live Demo**
+
+Check out the live demo of the application here: [Task Management App](https://task-b-liard.vercel.app/)
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
