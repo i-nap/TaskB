@@ -13,8 +13,7 @@ A simple task management app that allows users to create, organize, and manage t
 ### **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd <repository-name>
+   git clone  https://github.com/i-nap/TaskB.git
    npm install
    npm run dev
    http://localhost:3000 //open the browser at
